@@ -1,5 +1,7 @@
 # GraphicsTask
 
+Решение создано с использованием Microsoft Visual Studio
+
 управление камерой:
 WASD + мышь;
 
