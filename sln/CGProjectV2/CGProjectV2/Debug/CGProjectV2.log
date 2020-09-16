@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+c:\users\килилл\downloads\артемкин301(компьютерная графика)\cgproject\sln\cgprojectv2\cgprojectv2\camera.h(1): fatal error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  main.cpp
+c:\users\килилл\downloads\артемкин301(компьютерная графика)\cgproject\sln\cgprojectv2\cgprojectv2\main.cpp(3): fatal error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  Shader.cpp
+c:\users\килилл\downloads\артемкин301(компьютерная графика)\cgproject\sln\cgprojectv2\cgprojectv2\shader.h(2): fatal error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  Создание кода...
