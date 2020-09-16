@@ -1,4 +1,4 @@
-# GraphicsTask
+﻿# GraphicsTask
 
 Решение создано с использованием Microsoft Visual Studio
 
@@ -20,3 +20,5 @@ WASD + мышь;
 - normal maping текстура
 - prallax maping тестура
 - кубическая текстура в режиме окружающей среды(и куб отражающий эту текстуру)
+
+![alt text](https://github.com/KirillArtemkin/GraphicsTask/blob/master.screenshot1.png?raw=true
