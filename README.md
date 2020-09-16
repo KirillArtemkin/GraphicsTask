@@ -18,7 +18,7 @@ WASD + мышь;
 - тени(отбрасываемые на другие объекты);
 - 2D пост эффекты(черно-белый фильтр, выделение границ);
 - normal maping текстура
-- prallax maping тестура
+- prallax maping текстура
 - кубическая текстура в режиме окружающей среды(и куб отражающий эту текстуру)
 
 ![alt text](https://github.com/KirillArtemkin/GraphicsTask/blob/master/screenshot1.png?raw=true)
